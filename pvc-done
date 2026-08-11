@@ -1,0 +1,4 @@
+NAME                    STARTED         DURATION   STATUS
+cd-pipeline-run-2k9mn   1 minute ago    34s        Succeeded
+cd-pipeline-run-wjqh9   2 minutes ago   33s        Succeeded
+cd-pipeline-run-4gktk   4 minutes ago   20s        Failed
